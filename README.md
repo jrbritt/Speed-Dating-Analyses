@@ -8,5 +8,5 @@ Datset:
 Notebooks:
 - Speed_Dating_Cleaning_and_EDA: includes the cleaning of the original dataset, as well as exploratory data analysis mainly based in demographic differences.
 - Speed_Dating_Feature_Engineering: Determining model perceived feature importance from regression, XGBoost, and random forest models. Insights from this were used for a little more exploratory data analysis.
-- Spped_Dating_Final_Model: using SMOTE balancing to attempt to develop a predictive model for matching based on pre-interaction features.
+- Speed_Dating_Final_Model: using SMOTE balancing to attempt to develop a predictive model for matching based on pre-interaction features.
 
